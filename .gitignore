@@ -1,3 +1,6 @@
+# 3D Files
+*.x3g
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
